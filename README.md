@@ -5,7 +5,7 @@ description: week3 day1
 # Closure-and-Scope
 
 
-
+ji
 ## Visualizing Scope And Closures
 
 ```javascript
